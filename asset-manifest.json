@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CatagoloMuebles/static/css/main.e76f6cf1.css",
+    "main.js": "/CatagoloMuebles/static/js/main.cc9e0ccd.js",
+    "index.html": "/CatagoloMuebles/index.html",
+    "main.e76f6cf1.css.map": "/CatagoloMuebles/static/css/main.e76f6cf1.css.map",
+    "main.cc9e0ccd.js.map": "/CatagoloMuebles/static/js/main.cc9e0ccd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e76f6cf1.css",
+    "static/js/main.cc9e0ccd.js"
+  ]
+}
