@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CatalogoMuebles/static/css/main.e76f6cf1.css",
-    "main.js": "/CatalogoMuebles/static/js/main.2036c3ec.js",
+    "main.css": "/CatalogoMuebles/static/css/main.2e568a09.css",
+    "main.js": "/CatalogoMuebles/static/js/main.2f9dd528.js",
     "index.html": "/CatalogoMuebles/index.html",
-    "main.e76f6cf1.css.map": "/CatalogoMuebles/static/css/main.e76f6cf1.css.map",
-    "main.2036c3ec.js.map": "/CatalogoMuebles/static/js/main.2036c3ec.js.map"
+    "main.2e568a09.css.map": "/CatalogoMuebles/static/css/main.2e568a09.css.map",
+    "main.2f9dd528.js.map": "/CatalogoMuebles/static/js/main.2f9dd528.js.map"
   },
   "entrypoints": [
-    "static/css/main.e76f6cf1.css",
-    "static/js/main.2036c3ec.js"
+    "static/css/main.2e568a09.css",
+    "static/js/main.2f9dd528.js"
   ]
 }
